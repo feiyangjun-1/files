@@ -1,7 +1,7 @@
 # 源文件存放仓库
 <p>大家好，由于我最近很懒，所以我建立了这个仓库，让大家一起来帮我扒谱子。</p>
 <p>当然这个仓库还会存放<a href="https://space.bilibili.com/129328322">我</a>以前的视频用到的源文件。</p>
-<p>还有这个仓库的许可是GPL 2.0协议，所以你修改后的文件<strong>必须开源，也就是必须免费提供源文件给其他人，不可以改完之后自己拿去卖或不提供源文件，且修改后的文件也要遵守GPL 2.0协议</strong></p>
+<p>还有这个仓库的许可是GPL 2.0协议，所以你修改后的文件<strong>必须开源，也就是必须免费提供源文件给其他人，不可以改完之后自己拿去卖或不提供源文件，且修改后的文件也必须要遵守GPL 2.0协议</strong></p>
 <p>剩下关于GPL 2.0协议的内容你们可以去自行查阅。</p>
 <p>GuitarPro7.5.5 pojie版请<a href="https://feiyangjun-my.sharepoint.com/:u:/g/personal/feiyangjun__feiyangjun_onmicrosoft_com/EUUVCUWXvClFsFfxFCjJB1sBhb8RqltVS_umT3GKQznxOA?e=w7Wk89">点我</a>下载，绝对有效。</p>
 <p><strong>软件来源于互联网，仅供个人学习参考，请勿用于商业用途，版权归Arobas Music所有，下载后请务必于24小时内删除，请支持正版！侵删。</strong></p>
